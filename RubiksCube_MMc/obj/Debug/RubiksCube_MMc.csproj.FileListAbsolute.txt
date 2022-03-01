@@ -1,0 +1,7 @@
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/bin/Debug/RubiksCube_MMc.exe
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/bin/Debug/RubiksCube_MMc.pdb
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/obj/Debug/RubiksCube_MMc.csproj.AssemblyReference.cache
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/obj/Debug/RubiksCube_MMc.csproj.CoreCompileInputs.cache
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/obj/Debug/RubiksCube_MMc.exe
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/obj/Debug/RubiksCube_MMc.pdb
+/Users/michaelmcintee/Projects/RubiksCube_MMc/RubiksCube_MMc/bin/Debug/RubiksCube_MMc.exe.config

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiksCube_MMc", "RubiksCube_MMc\RubiksCube_MMc.csproj", "{A2676C25-F262-432C-8B0A-07C54D73BC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiksCube_MMcTest", "RubiksCube_MMcTest\RubiksCube_MMcTest.csproj", "{752EB5CC-D6A9-4EE6-A935-C3F89027C80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2676C25-F262-432C-8B0A-07C54D73BC23}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A2676C25-F262-432C-8B0A-07C54D73BC23}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A2676C25-F262-432C-8B0A-07C54D73BC23}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A2676C25-F262-432C-8B0A-07C54D73BC23}.Release|anycpu.Build.0 = Release|anycpu
+		{752EB5CC-D6A9-4EE6-A935-C3F89027C80B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{752EB5CC-D6A9-4EE6-A935-C3F89027C80B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{752EB5CC-D6A9-4EE6-A935-C3F89027C80B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{752EB5CC-D6A9-4EE6-A935-C3F89027C80B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7BBB12-E8E5-4F75-8327-EB161BF3280B}
+	EndGlobalSection
+EndGlobal
